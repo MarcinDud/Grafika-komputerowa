@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset=utf="8"/>
-    <title>Grafika komputerowa</title>
+    <h1 align="center">Grafika komputerowa</h1>
    
   </head>
 <body>
