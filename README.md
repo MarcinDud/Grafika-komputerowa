@@ -3,12 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Grafika komputerowa</title>
-   <style>
-       body{
-
-           background-color: rgb(191, 255, 0);
-       }
-   </style>
+   
   </head>
 <body>
     <h2 align="center"><strong>Grafika rastrowa</strong></h2>
