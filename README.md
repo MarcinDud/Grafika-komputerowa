@@ -14,11 +14,11 @@
 
 Grafika rastrowa została opatentowana pierwszy raz przez firmę Texas Instruments w latach 70. i aktualnie jest wszechobecną formą przedstawiania obrazu cyfrowego. Zdjęcia z aparatu cyfrowego są przykładem grafiki rastrowej.
 <p> Przykładem takiej grafiki jest:
-<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rgb-raster-image.svg/450px-Rgb-raster-image.svg.png" width="300"></center></p>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Rgb-raster-image.svg/450px-Rgb-raster-image.svg.png" width="300"></center>
     
 <h3 align="center"><strong>Grafika wektorowa</strong></h3>
    <a href="https://pl.wikipedia.org/wiki/Grafika_wektorowa"> <strong><em>Grafika wektorowa</em></strong></a> – jeden z dwóch podstawowych rodzajów grafiki komputerowej, w której obraz opisany jest za pomocą figur geometrycznych lub brył geometrycznych, umiejscowionych w matematycznie zdefiniowanym układzie współrzędnych, odpowiednio dwu- lub trójwymiarowym
 <p> Przykładem takiej grafiki jest:
-<center><img src="https://st3.depositphotos.com/14846838/18822/v/1600/depositphotos_188220866-stock-illustration-beach-flat-vector-icon.jpg" width="300"></center></p>
+<center><img src="https://st3.depositphotos.com/14846838/18822/v/1600/depositphotos_188220866-stock-illustration-beach-flat-vector-icon.jpg" width="300"></center>
 </body>
 </html>
