@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <meta charset="utf=8"/>
+             <meta charset="utf=8">
     <h1 align="center">Grafika komputerowa</h1>
    
   </head>
