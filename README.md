@@ -11,7 +11,7 @@
   
  <h1 align="center">Grafika komputerowa</h1>
   <img src="https://roznice.com/wp-content/uploads/2013/11/rastrowa-wektorowa.jpg" width="300">
-  
+  <img src="https://wytnij-wklej.pl/wp-content/uploads/2015/05/grafika-rastrowa-a-wektorowa.png">
   <h3 align="center"><strong>Grafika rastrowa</strong></h3>
     <a href="https://pl.wikipedia.org/wiki/Grafika_rastrowa"> <strong><em>Grafika rastrowa</em></strong> </a> (potocznie bitmapa) – prezentacja obrazu za pomocą matrycy punktów w postaci prostokątnej siatki odpowiednio kolorowanych pikseli na monitorze komputera, drukarce lub innym urządzeniu wyjściowym. W systemach komputerowych grafika rastrowa jest przechowywana w sposób skompresowany (stratnie lub bezstratnie) albo nieskompresowany w wielu formatach plików graficznych.
 
