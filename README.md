@@ -7,9 +7,7 @@
    
   </head>
 <body>
-  <style>
-    body{ background-color:rgb(191, 255, 0);}
-  </style>
+  
   
  <h1 align="center">Grafika komputerowa</h1>
   <img src="https://roznice.com/wp-content/uploads/2013/11/rastrowa-wektorowa.jpg" width="300"
